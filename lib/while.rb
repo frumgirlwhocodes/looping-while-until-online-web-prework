@@ -6,5 +6,6 @@ def using_while
 	levitation_foce += 1
 	puts "Wingardium Leviosa"
 end
+end 
 
 
