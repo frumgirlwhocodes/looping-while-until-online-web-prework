@@ -4,6 +4,7 @@ def using_while
 	#your code here
 	while levitation_force < 10
 	levitation_foce += 1
+	puts ""
 end
 
 
